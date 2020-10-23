@@ -1,0 +1,17 @@
+body {
+    background-color: tomato;
+    color: #FFF;
+}
+
+section {
+    display: flex;
+}
+
+.container {
+    flex: 1;
+}
+
+aside {
+    width: 100%;
+    max-width: 300px;
+}
